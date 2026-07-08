@@ -2,7 +2,9 @@
 
 A cozy pixel-art island exploration game that lives in a single HTML file — no dependencies, no build step, everything (world, art, music, sound) generated in code.
 
-**Play:** open `index.html` in a browser, or visit the live deployment.
+### ▶ Play now: [find-your-own-way.vercel.app](https://find-your-own-way.vercel.app)
+
+Works on desktop and mobile. Or clone the repo and open `index.html` in a browser — that's the whole game.
 
 ## How to play
 
